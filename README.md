@@ -60,9 +60,9 @@ Training was done on:
 
 ## :camera: Sample Results
 
-| Input | Traditional | Disney | Anime |
-|-------|-------------|--------|-------|
-| ![input](samples/input.jpg) | ![trad](samples/traditional.jpg) | ![disney](samples/disney.jpg) | ![anime](samples/anime.jpg) |
+| Traditional | Disney | Anime |
+|-------------|--------|-------|
+| ![Traditional](Traditional.png) | ![disney](disney.png) | ![AnimeHayo](AnimeHayo.png) |
 
 ---
 
