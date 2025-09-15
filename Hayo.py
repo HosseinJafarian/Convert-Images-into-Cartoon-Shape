@@ -21,7 +21,7 @@
   --model v2 \
   --batch_size 8 \
   --amp \
-  --init_epochs 30 \
+  --init_epochs 70 \
   --exp_dir runs \
   --save_interval 1 \
   --gan_loss lsgan \
