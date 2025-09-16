@@ -1,5 +1,4 @@
-# Convert-Images-into-Cartoon-Shape
-A multi-approach project for converting real images into cartoon styles using traditional filters, Stable Diffusion with prompt engineering, and AnimeGANv2. Focused on preserving identity while applying artistic abstraction across styles.
+
 # Convert Real Images into Cartoon Shapes — Three Approaches
 
 With the rapid growth of the cartoon film industry, technologies like compression, style transfer, and real-character adaptation are becoming essential.  
