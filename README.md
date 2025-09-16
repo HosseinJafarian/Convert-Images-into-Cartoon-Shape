@@ -11,7 +11,7 @@ One of the key challenges in this field is generating cartoon characters that re
 
 This project explores three distinct approaches to cartoonize real images:
 
-### 1⃣ Traditional Image Processing  
+### 1-Traditional Image Processing  
 Using classical computer vision techniques such as:
 - Edge detection (e.g., Canny)
 - Color clustering (e.g., K-means)
@@ -21,7 +21,7 @@ This method is lightweight and fast, ideal for simple cartoon effects.
 
 ---
 
-### 2⃣ Stable Diffusion + Prompt Engineering  
+### 2-Stable Diffusion + Prompt Engineering  
 Leveraging generative AI models guided by text prompts to produce stylized cartoon versions of input images.  
 We used prompt tuning to achieve:
 - Disney-style characters
@@ -32,7 +32,7 @@ Tools: [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusio
 
 ---
 
-### 3⃣ AnimeGANv2 (Hayao Style)  
+### 3-AnimeGANv2 (Hayao Style)  
 Training a GAN to replicate the iconic style of  Hayao Miyazaki’s anime .
 
 Features:
