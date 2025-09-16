@@ -1,5 +1,5 @@
 
-# Convert Real Images into Cartoon Shapes — Three Approaches
+# Convert Real Images into Cartoon Shapes 
 
 With the rapid growth of the cartoon film industry, technologies like compression, style transfer, and real-character adaptation are becoming essential.  
 Cartoon images are defined by uniform colors, distinct lines, and smooth backgrounds — making them visually unique compared to natural images.  
