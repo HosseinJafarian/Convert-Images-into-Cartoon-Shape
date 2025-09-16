@@ -63,7 +63,7 @@ Training was done on:
 |-------------|--------|-------|
 | ![Traditional](Traditional.png) | ![disney](disney.png) | ![AnimeHayo](AnimeHayo.png) |
 | ![Traditional](Traditional2.png) | ![disney](disney2.png) | ![AnimeHayo](AnimeHayo2.png) |
-| ![Traditional](Traditional3.png) | ![disney](disney3.png) | ![AnimeHayo](AnimeHayo3.png) |
+| ![Traditional](Traditional3.png) | ![AnimeHayo](AnimeHayo3.png) |
 ---
 
 ## :rocket: How to Run AnimeGAN Training
